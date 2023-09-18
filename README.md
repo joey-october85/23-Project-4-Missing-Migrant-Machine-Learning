@@ -13,6 +13,8 @@ With this project we accomplished the following:
 -	Most hazardous routes
 
 Please view the following images from our presentation slides, review our code, and visit our official Tableau Dashboard in order to gain a better understanding of our project. Thank you!
+
+
 Link to our direct Tableau Dashboard with interactive data visualizations: https://public.tableau.com/app/profile/jose.rodriguez1332/viz/MissingMigrantVisualizations/Story1?publish=yes
 
 ![alt text](https://github.com/msryannhawkins/Project-4-Migrant-MachineLearning/blob/main/Visualization%20Images/Screenshot%202023-09-18%20at%206.04.31%20PM.png
